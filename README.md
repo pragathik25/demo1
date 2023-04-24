@@ -2,8 +2,4 @@
 HI
 hello
 
-heheh
-
-huhyiuy
-
 
